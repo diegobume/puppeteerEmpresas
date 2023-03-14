@@ -3,4 +3,4 @@
 npm i puppeteer
 node infoempresas.js
 ```
-Instalar puppeteer y ejecutar con node.js. Tarda un par de minutos en recoger la lista puesta de ejemplo con CIFs.
+Instalar puppeteer y ejecutar con node.js. Tarda 1 minuto y pico en recoger la lista puesta de ejemplo con CIFs.
